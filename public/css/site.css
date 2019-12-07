@@ -1,0 +1,46 @@
+#header-info {
+    color: green;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.87);
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+
+#firstDp{
+    margin-left: 10px;
+}
+
+.icon-button {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+
+#displayIngredients{
+    margin: 1px solid #ccc;
+    margin-top: 1px;
+    padding: 10px;
+    background: #efefef;
+    position: relative;
+    float: right;
+}
+
+#recipieName{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+input[type=checkbox], input[type=radio] {
+
+margin: 5px -26px -16px;
+}
